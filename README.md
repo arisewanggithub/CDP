@@ -161,6 +161,6 @@ The Windows version supports these global keyboard shortcuts:
 
 ## Feedback
 
-If you encounter issues, have suggestions, or want to request features, please [open an issue](https://github.com/arisewanggithub/CloudDrivePlayer/issues) in this repository.
+If you encounter issues, have suggestions, or want to request features, please [open an issue](https://github.com/arisewanggithub/CDP/issues) in this repository.
 
 Thank you for using Cloud Drive Player!

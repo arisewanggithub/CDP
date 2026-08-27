@@ -11,9 +11,9 @@ Available now on **[Google Play](https://play.google.com/store/apps/details?id=c
 <p align="center">
   <a href="https://play.google.com/store/apps/details?id=com.arisewang.clouddriveplayer">Google Play</a> ·
   <a href="https://apps.microsoft.com/detail/9pfxngjljn2p">Microsoft Store</a> ·
-  <a href="https://clouddriveplayer.arise.ccwu.cc/">Website</a> ·
-  <a href="https://clouddriveplayer.arise.ccwu.cc/PRIVACY_POLICY.html">Privacy Policy (Android)</a> ·
-  <a href="https://clouddriveplayer.arise.ccwu.cc/PRIVACY_POLICY_WINDOWS.html">Privacy Policy (Windows)</a> ·
+  <a href="https://clouddriveplayer.redrain.ccwu.cc/">Website</a> ·
+  <a href="https://clouddriveplayer.redrain.ccwu.cc/PRIVACY_POLICY.html">Privacy Policy (Android)</a> ·
+  <a href="https://clouddriveplayer.redrain.ccwu.cc/PRIVACY_POLICY_WINDOWS.html">Privacy Policy (Windows)</a> ·
   <a href="mailto:clouddriveplayer@outlook.com">Contact</a>
 </p>
 

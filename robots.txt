@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://clouddriveplayer.redraintech.com/sitemap.xml
+Sitemap: https://clouddriveplayer.arise.ccwu.cc/sitemap.xml
